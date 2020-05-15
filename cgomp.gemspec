@@ -6,9 +6,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["bannzai"]
   spec.email         = ["yudai-hirose@cookpad.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Generating mobile app entity code from autodoc.}
+  spec.description   = %q{Generating mobile app entity code from autodoc.}
+  spec.homepage      = "https://github.com/bannzai/cgomp"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
