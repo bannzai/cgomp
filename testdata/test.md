@@ -12,6 +12,7 @@ Header
 GET /v1/test HTTP/1.1
 Authorization: Bearer xyz
 ```
+
 </details>
 
 #### Response
@@ -40,7 +41,7 @@ Body
 ```json
 {
   "id": 1,
-  "name: "fisrt"
+  "name": "first"
 }
 ```
 
@@ -88,7 +89,7 @@ Body
 ```json
 {
   "id": 2,
-  "name: "second"
+  "name": "second"
 }
 ```
 
@@ -136,7 +137,7 @@ Body
 ```json
 {
   "id": 3,
-  "name: "third"
+  "name": "third"
 }
 ```
 
